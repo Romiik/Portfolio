@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"http://Romiik.github.io/Portfolio",
+  "homepage":"http://Romiik.github.io/portfolio",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
