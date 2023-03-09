@@ -9,8 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage":"http://romiik.github.io/portfolio",
-  "dependencies": {
-    "gh-pages": "^3.2.3"
+  "homepage": "http://romiik.github.io/portfolio",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
